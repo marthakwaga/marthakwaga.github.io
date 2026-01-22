@@ -252,11 +252,15 @@ input[type="submit"]:hover {
 /* --- FOOTER --- */
 footer {
     background-color: #036966;
-    color: black;
+    color: rgb(243, 240, 240);
     text-align: center;
     padding: 20px;
     clear: inline-end;
     margin-top: both;
+}
+
+footer p {
+    color: white;
 }
 
 /* --- RESPONSIVE ADJUSTMENTS --- */
