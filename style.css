@@ -35,13 +35,14 @@ header h1 {
     margin-bottom: 10px;
     text-transform: uppercase;
     letter-spacing: 2px;
-    color: #ddd;
+    color: white;
 }
 
 header p {
-    font-size: 1.2rem;
+    font-size: 1.4rem;
     opacity: 0.9;
-    color: #e6480f;
+    color: #3fec00f5;
+    
 }
 
 /* --- NAVIGATION --- */
